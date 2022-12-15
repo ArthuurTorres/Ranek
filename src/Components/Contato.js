@@ -13,7 +13,7 @@ const Contato = () => {
       <div>
         <h1>Entre em contato.</h1>
         <ul className={styles.dados}>
-          <li>tuzin@trembala.com</li>
+          <li>tuzin@com</li>
           <li>+55 (22)99782-2626</li>
           <li>Rua Abius - Cabo Frio</li>
         </ul>
